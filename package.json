@@ -1,0 +1,17 @@
+{
+  "name": "aoi.js-advanced",
+	"version": "1.0.0",
+	"description": "This is the advanced template to make a powerful Bot using aoi.js",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+  "author": "Leref",
+	"license": "MIT",
+  "dependencies": {
+    "@akarui/aoi.music": "^1.2.6",
+    "@akarui/aoi.panel": "^0.0.2",
+    "aoi.db": "^1.0.0",
+    "aoi.js": "^5.5.5"
+  }
+}

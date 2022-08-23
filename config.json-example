@@ -1,0 +1,8 @@
+{
+    "token": "DISCORD BOT TOKEN",
+    "prefix": "DISCORD BOT PREFIX",
+    "panel-username": "CHANGEUSERNAME",
+    "panel-password": "CHANGEPASSWORD",
+    "panel-secret": "aoijs",
+    "panel-port": "3000"
+}
